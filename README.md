@@ -19,4 +19,4 @@ _________________________
 
 .pdf : Summary on what's done in the entire py file
 
-readme.md
+README.md
