@@ -13,10 +13,10 @@ _________________________
 
 1_Lead_Scoring_Assignment_Case_Study_final.ipynb : The python notebook file showing coding and data analysis
 
+2_Summary Lead Scoring Case Study.pdf : Summary on what's done in the entire py file
+
 .pdf : Some subjective questions answered
 
 .pdf : Final Presentation
-
-.pdf : Summary on what's done in the entire py file
 
 README.md
