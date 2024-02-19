@@ -11,7 +11,7 @@ _________________________
 _________________________
 ## Details of files given
 
-.ipynb : The python file showing coding and data analysis
+1_Lead_Scoring_Assignment_Case_Study_final.ipynb : The python notebook file showing coding and data analysis
 
 .pdf : Some subjective questions answered
 
