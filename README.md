@@ -12,6 +12,11 @@ _________________________
 ## Details of files given
 
 .ipynb : The python file showing coding and data analysis
+
 .pdf : Some subjective questions answered
+
 .pdf : Final Presentation
+
 .pdf : Summary on what's done in the entire py file
+
+readme.md
