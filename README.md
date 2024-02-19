@@ -8,6 +8,14 @@ _________________________
   To enhance efficiency, the company aims to identify the most promising leads, referred to as 'Hot Leads.' Identifying this subset of leads is expected to boost the lead conversion rate, as the sales team can concentrate efforts on communicating with potential leads rather than reaching out to everyone indiscriminately. The proposed solution involves developing a logistic regression model that assigns a lead score ranging from 0 to 100 to each lead. A higher score indicates a hotter lead, more likely to convert, while a lower score suggests a colder lead with lower conversion potential. The model should also be adaptable to accommodate any future changes in the company's requirements, addressing additional issues outlined in a separate document. The final presentation should encompass the logistic regression model's details, its application in handling specified problems, and comprehensive insights for the company's consideration.
 _________________________
 ## Steps:
+- Dataset Understanding
+- Handling Null Values
+- Univariate Analysis and Data Manipulation
+- Multivariate Analysis
+- Data Processing
+- Model Building
+- Model Evaluation
+- Model Interpretation
 _________________________
 ## Details of files given
 
