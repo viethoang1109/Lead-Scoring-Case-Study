@@ -10,6 +10,7 @@ _________________________
 ## Steps:
 _________________________
 ## Details of files given
+
 .ipynb : The python file showing coding and data analysis
 .pdf : Some subjective questions answered
 .pdf : Final Presentation
