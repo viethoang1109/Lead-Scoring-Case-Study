@@ -15,7 +15,7 @@ _________________________
 ## Steps:
 - Dataset Understanding
 - Handling Null Values
-- Univariate Analysis and Data Manipulation
+- Univariate Analysis 
 - Multivariate Analysis
 - Data Processing
 - Model Building
