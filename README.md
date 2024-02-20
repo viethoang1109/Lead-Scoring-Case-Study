@@ -1,6 +1,6 @@
 # Lead-Scoring-Case-Study
 _________________________
-# Members of group
+## Members of group
 - Khozema Goodluck
 - Tejas P
 - Nguyen Viet Hoang
