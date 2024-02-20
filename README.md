@@ -1,5 +1,10 @@
 # Lead-Scoring-Case-Study
 _________________________
+# Members of group
+- Khozema Goodluck
+- Tejas P
+- Nguyen Viet Hoang
+_________________________
 ## Objective:
   X Education, an educational company, specializes in the sale of online courses to professionals in various industries. Daily, numerous professionals interested in their courses visit the company's websites and explore available options. The company employs diverse marketing strategies, utilizing multiple websites and search engines such as Google to promote its courses. Upon landing on the website, visitors may peruse courses, fill out course-related forms, or view instructional videos. Individuals who provide their contact information, such as email addresses or phone numbers, are categorized as leads. Additionally, the company acquires leads through referrals.
 
