@@ -19,12 +19,12 @@ _________________________
 _________________________
 ## Details of files given
 
-1_Lead_Scoring_Assignment_Case_Study_final.ipynb : The python notebook file showing coding and data analysis
+1_Lead_Scoring_Assignment_Case_Study_final.ipynb: The Python notebook file showing coding and data analysis
 
-2_Summary Lead Scoring Case Study.pdf : Summary on what's done in the entire py file
+2_Summary Lead Scoring Case Study.pdf: Summary of what's done in the entire py file
 
-.pdf : Some subjective questions answered
+3_Assignment Subjective Questions.pdf: Some subjective questions answered
 
-.pdf : Final Presentation
+.pdf: Final Presentation
 
 README.md
