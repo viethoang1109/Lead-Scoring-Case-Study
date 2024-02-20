@@ -30,6 +30,6 @@ _________________________
 
 3_Assignment Subjective Questions.pdf: Some subjective questions answered
 
-.pdf: Final Presentation
+4_Lead Scoring Case Study_presentation.pdf: Final Presentation
 
 README.md
